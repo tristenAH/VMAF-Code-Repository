@@ -1,0 +1,3 @@
+[submodule "Keypoints_Prediction/vmaf"]
+	path = Keypoints_Prediction/vmaf
+	url = https://github.com/Netflix/vmaf.git
