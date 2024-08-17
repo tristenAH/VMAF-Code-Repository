@@ -1,4 +1,4 @@
-# Motion-Transfer-Keypoints-Prediction
+# VMAF Code Repository
 
 ## Description of the repository:
 This is a repo containing files related to keypoint prediction and video generation using RNN/VAE/VRNN in the First Order Motion Model (FOMM) pipeline. 
