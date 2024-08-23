@@ -1,0 +1,9 @@
+pip install jupyter
+conda install -c anaconda jupyterlab
+pip install scikit-image==0.18.3
+pip install imageio[ffmpeg]
+pip install imageio[pyav]
+pip install ffmpeg
+
+Also follow the instructions for setting up the VMAF command line tool found here:
+https://github.com/Netflix/vmaf/blob/master/libvmaf/README.md
