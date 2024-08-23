@@ -6,6 +6,8 @@ This repository contains all VMAF code involved with the ongoing video motion tr
 ## Directory Contents:
 **The Keypoints_Prediction folder** has files to generate predicted videos using the various algorithms (VRNN, RNN, VAE, No Prediction), to run VMAF on them, and generate visualizations of the VMAF data.
 
+The environment_setup file in the Keypoints_Prediction folder is a text file which details what you have to do in order to be able to run the notebooks in the same folder.
+
 The log directory is for the generated images, videos, and VMAF outputs produced by the notebooks in the Keypoints_Prediction folder.
 
 ## Large Files and where to put them 
